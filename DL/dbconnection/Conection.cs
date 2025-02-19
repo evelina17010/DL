@@ -10,5 +10,6 @@ namespace DL.dbconnection
     {
 
         public static LibEntities biblioteq = new  LibEntities() ;
+
     }
 }
